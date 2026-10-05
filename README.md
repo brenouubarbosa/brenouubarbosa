@@ -1,21 +1,21 @@
-# Olá, me chamo Breno!
+# Hi, I'm Breno! 👾
 
-Sou Técnico em Informática formado pelo IFSULDEMINAS e atualmente graduando em Cibersegurança na UNIFEI. Dedico grande parte dos meus estudos à pesquisa de vulnerabilidades, desafios de Capture the Flag (CTF), wargames e segurança em protocolos industriais.
+I have a technical degree in IT from IFSULDEMINAS and am currently pursuing a Bachelor's degree in Cybersecurity at UNIFEI. I dedicate a large part of my studies to vulnerability research, Capture the Flag (CTF) challenges, wargames, and industrial protocol security.
 
-### Projetos em Destaque
+### 🚀 Featured Projects
 
-*   [**Tamagotchi Extension**](https://github.com/brenouubarbosa/tamagotchi-extension-new): Jogo inspirado em tamagotchi desenvolvido como extensão para navegadores. — *Desenvolvida com HTML, CSS e JavaScript.*
+*   [**Tamagotchi Extension**](https://github.com/brenouubarbosa/tamagotchi-extension-new): A Tamagotchi-inspired game developed as a browser extension. — *Built with HTML, CSS, and JavaScript.*
 
-*(Mais projetos serão adicionados em breve!)*
+*(More projects coming soon!)*
 
-### Tecnologias e Habilidades
+### 💻 Technologies & Skills
 
-*   **Linguagens de Programação:** Python, C, JavaScript, HTML/CSS.
-*   **Segurança & Infraestrutura:** Linux, Segurança de Redes, CTFs.
-*   **Ferramentas:** Git, GitLab.
+*   **Programming Languages:** Python, C, JavaScript, HTML/CSS.
+*   **Security & Infrastructure:** Linux, Network Security, CTFs.
+*   **Tools:** Git, GitLab.
 
-### Sobre Mim
+### ⚡ About Me
 
-*   Interesse em plataformas de exploração de hardware (como Flipper Zero, M5Stack e Proxmark3).
-*   Nas horas vagas, curto speedcubing, jogos e estudo um pouco de alemão.
-*   **Como me encontrar:** [LinkedIn](https://linkedin.com/in/breno-barbosa-30795120b) | [GitLab](https://gitlab.com/brenouu12) | [brenojosebarbosa106@gmail.com](mailto:brenojosebarbosa106@gmail.com)
+*   🔧 Interested in hardware exploration platforms (such as Flipper Zero, M5Stack, and Proxmark3).
+*   🧩 In my free time, I enjoy speedcubing, gaming, and studying a bit of German.
+*   📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/breno-barbosa-30795120b) | [GitLab](https://gitlab.com/brenouu12) | [brenojosebarbosa106@gmail.com](mailto:brenojosebarbosa106@gmail.com)
